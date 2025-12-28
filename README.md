@@ -1,2 +1,2 @@
 # NurOS Wallpapers Pack
-Exclusive wallpapers for our GNU/Linux NurOS distribution.
+Exclusive wallpapers for our NurOS GNU/Linux distribution.
